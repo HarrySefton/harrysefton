@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey there! I'm Harry 👋
 
-<!--
-**HarrySefton/harrysefton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer specializing in backend systems, and a systems administrator.
 
-Here are some ideas to get you started:
+A lot of my repositories and commits are private work for clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This about me is a work in progress will update overtime :) 
+
+---
+
+## Skills & Technologies
+
+- **Languages:** Fullstack Web, PHP, C#, Nodejs, Typescript
+- **Frameworks/Tools:** Docker, Git, CI/CD pipelines
+- **Databases:** Redis, PostgresSQL
+- **Other:** Cloud services (AWS, GCP), Microservices, API Design
+- **Operating Systems:** Linux (Debian, Ubuntu), Windows Server
+
+![PHP](https://img.shields.io/badge/PHP-00ADD8?style=flat&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
+![Tyoescript](https://img.shields.io/badge/Typescript-3776AB?style=flat&logo=typescript&logoColor=white)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harrysefton&label=Profile+Views&color=blueviolet" 
+       alt="Profile Views" 
+       style="height: 30px; border-radius: 5px; margin: 5px;" />
+</div>
+
+[//]: # (<div align="center">)
+
+[//]: # (  <!-- Language Stats with Dark Mode -->)
+
+[//]: # (  <a href="https://github.com/harrysefton">)
+
+[//]: # (    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrysefton&hide=Jupyter%20Notebook&layout=compact&hide_border=true&langs_count=6&include_all_commits=true&theme=dark" )
+
+[//]: # (         alt="Harry's Language Stats")
+
+[//]: # (         style="max-width: 100%; border-radius: 5px; margin: 5px;" />)
+
+[//]: # (  </a>)
+
+[//]: # (</div>)
